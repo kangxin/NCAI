@@ -1,0 +1,8 @@
+A plausible set of concise steps of how the process that transforms informal rules of thumb into well-established principles that guide systems engineering practice follows.
+1. Initial Observation: Heuristics often start as informal rules of thumb based on practical experience.
+2. Documentation and Sharing: These observations get documented and shared among practitioners.
+3. Testing and Refinement: The heuristics are tested in various projects and refined based on outcomes.
+4. Pattern Recognition: As similar heuristics prove useful across multiple projects and domains, recognizable patterns emerge, enabling heuristic generalization.
+5. Formal Studies: Researchers conduct formal studies to validate the effectiveness of the heuristic.
+6. Theoretical Backing: The heuristics are connected to underlying theories in systems engineering and related fields.
+7. Consensus Building: As evidence accumulates, a consensus forms in the systems engineering community about the validity and importance of the heuristic.

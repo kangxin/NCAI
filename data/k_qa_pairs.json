@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "question": "Who handles the Heuristic-to-priniciple Evolving process?",
+        "answer": "The Systems Engineering Practitioner & Expert Group handles the Heuristic-to-priniciple Evolving process."
+    },
+    {
+        "id": 2,
+        "question": "What is the initial state of Heuristic?",
+        "answer": "The initial state of Heuristic is rule of thumb."
+    },
+    {
+        "id": 3,
+        "question": "During which process does Heuristic change from documented & shared to tested & refined?",
+        "answer": "During Testing & Refining, Heuristic changes from documented & shared to tested & refined."
+    },
+    {
+        "id": 4,
+        "question": "What changes occur in Heuristic during the Pattern Emerging & Recognizing process?",
+        "answer": "During Pattern Emerging & Recognizing, Heuristic changes from tested & refined to pattern recognized."
+    },
+    {
+        "id": 5,
+        "question": "Which process changes Heuristic from effectiveness validated to theoretically backed?",
+        "answer": "Theoretical Baking changes Heuristic from effectiveness validated to theoretically backed."
+    }
+]

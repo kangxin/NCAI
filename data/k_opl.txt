@@ -1,0 +1,17 @@
+1. Heuristic can be principle, rule of thumb or at one of five other states. State rule of thumb is initial. State principle is final.
+2. Heuristic-to-priniciple Evolving changes Heuristic from rule of thumb to principle.
+3. Systems Engineering Practitioner & Expert Group handles Heuristic-to-priniciple Evolving.
+4. Heuristic-to-priniciple Evolving from SD zooms in SD1 into Initial Observing, Documenting & Sharing, Project Selecting, Testing & Refining, Pattern Emerging & Recognizing, Effectiveness Validating, Theoretical Baking, and Consensus Building, which occur in that time sequence.
+5. Heuristic can be documented & shared, effectiveness validated, pattern recognized, principle, rule of thumb, tested & refined or theoretically backed. State rule of thumb is initial. State principle is final.
+6. Systems Engineering Practitioner & Expert Group handles Heuristic-to-priniciple Evolving.
+7. Documenting & Sharing changes Heuristic from rule of thumb to documented & shared.
+8. Testing & Refining changes Heuristic from documented & shared to tested & refined.
+9. Testing & Refining requires Project Set.
+10. Pattern Emerging & Recognizing changes Heuristic from tested & refined to pattern recognized.
+11. Pattern Emerging & Recognizing requires Project Set.
+12. Effectiveness Validating changes Heuristic from pattern recognized to effectiveness validated.
+13. Effectiveness Validating requires Project Set.
+14. Theoretical Baking changes Heuristic from effectiveness validated to theoretically backed.
+15. Consensus Building changes Heuristic from theoretically backed to principle.
+16. Initial Observing changes Heuristic to state rule of thumb.
+17. Project Selecting yields Project Set.

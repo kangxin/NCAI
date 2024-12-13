@@ -1,0 +1,1 @@
+{"name": "BLEURT-20", "bert_config_file": "bert_config.json", "max_seq_length": 512, "vocab_file": null, "do_lower_case": null, "sp_model": "sent_piece", "dynamic_seq_length": true}
