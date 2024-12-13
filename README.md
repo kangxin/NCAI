@@ -24,20 +24,24 @@ pip install -r requirements.txt
 ---
 
 ## 📔File Structure
-<span style="background-color: #333; color: #fff;">Dark background text</span>
 
-evaluation.py: Evaluates QA system outputs with metrics like ROUGE and BLEURT.
+`evaluation.py`: Evaluates QA system outputs with metrics like ROUGE and BLEURT.
 
-evaluation_statistics.py: Performs statistical analysis on evaluation results.
+`evaluation_statistics.py`: Performs statistical analysis on evaluation results.
 
-kbqa.py: Implements a knowledge-based QA system using OpenAI models.
+`kbqa.py`: Implements a knowledge-based QA system using OpenAI models.
 
 
 ## 📜Quick start
+Quick start: Using script file (`experiment.sh`)
 
 ```
-./ experiment.sh
+>> bash experiment.sh
+```
+---
+## 🤝 Cite
+Please condiser citing this paper if you use the `code` or `data` from our work. Thanks a lot :)
 ```
 
-
+```
 
