@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ---
 
 ## 📜Quick start
-Quick start: Using script file (`experiment.sh`)
+- Using script file (`experiment.sh`)
 
 ```
 >> bash experiment.sh
