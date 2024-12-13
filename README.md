@@ -25,12 +25,45 @@ pip install -r requirements.txt
 
 ## 📔File Structure
 
-`evaluation.py`: Evaluates QA system outputs with metrics like ROUGE and BLEURT.
+### Data
+`k_opl.txt`: Knowledge base in Object-Process Language (OPL) format.
 
+`k_nl.txt`: Knowledge base in Natural Language (NL) format.
+
+`opm_elements.txt`: Object-Process Methodology (OPM) elements in the knowledge base.
+
+`k_qa_pairs.json`: Example QA pairs used as context for generating answers.
+
+`qa_pairs.json`: Ground truth QA pairs used for evaluation.
+
+`q.json`: Questions extracted from qa_pairs.json.
+
+### Scripts
+`kbqa.py`: Implements the knowledge-based QA system.
+
+- Uses domain knowledge (`k_opl.txt` or `k_nl.txt`) and example QA pairs (`k_qa_pairs.json`) to generate answers for questions in `q.json`.
+  
+- Outputs generated answers to a specified file (e.g., `result/answers.json`).
+
+`evaluation.py`: Evaluates QA system outputs.
+
+- Compares generated answers (`result/answers.json`) with ground truth (`qa_pairs.json`) using metrics like ROUGE, BLEURT, and GPT Judge.
+
+- Outputs detailed evaluation results (e.g.,`result/evaluation.json`).
+  
 `evaluation_statistics.py`: Performs statistical analysis on evaluation results.
 
-`kbqa.py`: Implements a knowledge-based QA system using OpenAI models.
+- Compares results from different experiments (e.g., OPL and NL knowledge bases).
+- Outputs analysis to a specified file (e.g.,` result/statistics.txt`).
+  
+### Results
+`result/answers.json`: Generated answers from the QA system.
 
+`result/evaluation.json`: Evaluation results comparing generated answers with ground truth.
+
+`result/statistics.txt`: Statistical comparison of evaluation results.
+
+---
 
 ## 📜Quick start
 Quick start: Using script file (`experiment.sh`)
