@@ -16,16 +16,22 @@ This rich structured knowledge representation improves reasoning transparency an
 
 ## 🛠Requirement
 
+Run the command to install the packages required.
 ```
-numpy
-scipy
-tqdm
-nltk
-openai
-rouge-score
-bleurt
+pip install -r requirements.txt
 ```
+
 ---
+
+## 📔File Structure
+<span style="background-color: #333; color: #fff;">Dark background text</span>
+
+evaluation.py: Evaluates QA system outputs with metrics like ROUGE and BLEURT.
+
+evaluation_statistics.py: Performs statistical analysis on evaluation results.
+
+kbqa.py: Implements a knowledge-based QA system using OpenAI models.
+
 
 ## 📜Quick start
 
