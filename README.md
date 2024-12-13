@@ -16,7 +16,7 @@ This rich structured knowledge representation improves reasoning transparency an
 
 ## 🛠Requirement
 
-Run the command to install the packages required.
+- Run the command to install the packages required.
 ```
 pip install -r requirements.txt
 ```
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 ```
 ---
 ## 🤝 Cite
-Please condiser citing this paper if you use the `code` or `data` from our work. Thanks a lot :)
+- Please condiser citing this paper if you use the `code` or `data` from our work. Thanks a lot :)
 ```
 
 ```
