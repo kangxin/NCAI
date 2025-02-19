@@ -76,5 +76,15 @@ pip install -r requirements.txt
 - Please condiser citing this paper if you use the `code` or `data` from our work. Thanks a lot :)
 ```
 
+@misc{kang2025neuroconceptualartificialintelligenceintegrating,
+      title={Neuro-Conceptual Artificial Intelligence: Integrating OPM with Deep Learning to Enhance Question Answering Quality}, 
+      author={Xin Kang and Veronika Shteingardt and Yuhan Wang and Dov Dori},
+      year={2025},
+      eprint={2502.09658},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.09658}, 
+}
+
 ```
 
